@@ -1,10 +1,10 @@
 {
     "version": "1.0.2",
     "notes": "See the assets to download this version and install.",
-    "pub_date": "2024-08-08T16:06:25.878231Z",
+    "pub_date": "2024-08-08T16:25:51.777157Z",
     "platforms": {
         "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFzbjJTcy8rbG1zZHZrOE5kQ2RxVFJnNnh2RUNaSW9pL25ML0ZBQk4yOU5tcld6Rk91eW5aVlU4MTgyRGFPTnJJVVcrR1RNY1BNVG03K1FMVnc4VmlrR1kzZ0dIaWdNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMTI1OTQ1CWZpbGU6c3Rvcm15LmFwcC50YXIuZ3oKWFN1ZDBhNVVvdmhmMU9Gak5ZN3hBN1RuR0tUSmg1ZUFKNkt3ZVY2OFVGVDQ1TTR2ZWVzZTdUN0lpdHVXYW1wcVFjTDdWRjBwcERpV2ZuZTQvTm0yQXc9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFzbjJTcy8rbGk2YU9JSnlSenoydDMvVTcyTWRGZnI1NTFGQnVDaytGYTBZT0VCZWJ6cGNWdmRPZXMzVytSeTIwV0RnUnFzT09rY1lsNWduMFdRVWhXVWhhSUtHOHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzIzMTI3MTEwCWZpbGU6c3Rvcm15LmFwcC50YXIuZ3oKWGxNM0xsNjJQTmxZelBVRTUxOGF3TXpCOW5ZL1RSM2NwZklyOHhwT3A2WjB0UE1oKzBxYy9scTFZOEZuUFhubS9IdmpNK3gySXNVZ296WnY3MmdDQUE9PQo=",
             "url": "https://dosearch.space/updater/stormy.app.tar.gz"
         }
     }
