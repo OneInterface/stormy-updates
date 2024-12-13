@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "notes": "See the assets to download this version and install.",
+    "pub_date": "2024-12-13T22:23:57.646621Z",
+    "platforms": {
+        "darwin-aarch64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFzbjJTcy8rbGhQWlpldHNVTnlVQndQd2pVMUViTS9VZVdDckJIMDJBOEs5dmRtYldiajdKR1FZWHNpNjFmTjBkUjc4WUtTQVY3ZWFNS0JOYS9yRWZnTEpRRlZNeEFNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MTI0MzA2CWZpbGU6QW1iaWVudC5hcHAudGFyLmd6CjJkMzY0VDFpSUtQaW1tOHUzbzhUWmJkUm5OY2h3ME9RZFltdHN1RUxzQTFuZ1o4QjhvMFMzVzVOdHBiTUc5a2FxaVBYRjRHMXdUMVRpYmVLV3RkVEJRPT0K",
+            "url": "https://dosearch.space/updater/ambient.app.tar.gz"
+        }
+    }
+}
