@@ -1,10 +1,10 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "notes": "See the assets to download this version and install.",
-    "pub_date": "2024-12-14T00:53:40.702225Z",
+    "pub_date": "2024-12-14T01:46:16.804619Z",
     "platforms": {
         "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFzbjJTcy8rbGhDN3YvQTMyWlFtOEk4TktHUDhtelFwR3h4QmZKSEhDMzhRVjZMalBOQzR0QndBblBid05kam9ZZVVhUFNFVW9FVmcyMnFoNUZUQTBVTXNReC9xSmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MTMzOTgxCWZpbGU6QW1iaWVudC5hcHAudGFyLmd6CkVGblIzeTl6Zm10MXRPVUNxRG1qaTRQYjZ0ZVZyQ2oyUm56cG9UdXJpR3dMRW5NdmpSSm1NVDFpbHNKanhuMWJDbUZXRi9jc2FSVnd0M29CNExCZER3PT0K",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUZGFzbjJTcy8rbGtLNjdMQjJzQ1Z1RWd0UGdyWjJGMGRQSDZvN0xaYmI5Vy9ib3FRNVRMMytpTkRJeE1JUjMrVDBKb2FlWllyTCtwb2ozTVNuL25KNWg5RmtTaEF6L0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM0MTM3MTM3CWZpbGU6QW1iaWVudC5hcHAudGFyLmd6CnpkZDlqNkczby9NYzNEM1BHTEU3M3BUdXVpSTVDS3hKL0pEREpudTBKdmNzK1lFb0ZUTU91YXJwZ2x4Zy9meXlQNUE2Yk8zNWxMSnF4KytyYXBUWERRPT0K",
             "url": "https://dosearch.space/updater/ambient.app.tar.gz"
         }
     }
